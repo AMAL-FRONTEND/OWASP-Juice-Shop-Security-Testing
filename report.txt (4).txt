@@ -1,0 +1,15 @@
+Project: OWASP Juice Shop Security Testing
+
+Environment:
+- Kali Linux
+- OWASP Juice Shop (Local Docker setup)
+
+Vulnerability 1: SQL Injection
+Description: Login bypass using SQL injection payload.
+Impact: Unauthorized access to user accounts.
+
+Vulnerability 2: Weak Password Policy
+Description: Application allows very weak passwords.
+Impact: Increased risk of account compromise.
+
+All testing was performed in a controlled lab environment for educational purposes only.
