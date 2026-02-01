@@ -65,7 +65,7 @@ The application allows users to register accounts using very weak passwords with
 
 ## Project Artifacts
 
-* 📸 Screenshots demonstrating vulnerabilities
+* video demonstrating vulnerabilities
 * 📄 Detailed findings report (`report.txt`)
 * 🎥 Project demo video (LinkedIn)
 
@@ -88,3 +88,4 @@ The application allows users to register accounts using very weak passwords with
 ## Disclaimer
 
 This project is intended **strictly for educational purposes**. No real-world systems or public networks were tested.
+
